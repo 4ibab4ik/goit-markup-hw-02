@@ -64,7 +64,9 @@ a {
     text-decoration-thickness: 2px;
 }
 
-.header-address {}
+.header-address {
+    font-style: normal;
+}
 
 .header-address-list {}
 
@@ -73,7 +75,6 @@ a {
 .header-address-link {
     color: inherit;
     font-family: inherit;
-    font-style: normal;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
