@@ -1,5 +1,5 @@
 body{
-    font-family: 'Roboto', 'Montserrat', 'Poppins' sans-serif;
+    font-family: 'Roboto', 'Montserrat', 'Poppins', sans-serif;
     color: #434455;
     background-color: #ffffff;
 }
@@ -157,7 +157,7 @@ a {
 .advantages-item-text {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
 }
 
 /* ======================== */
