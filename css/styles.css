@@ -28,7 +28,7 @@ a {
     text-transform: uppercase;
 }
 
-.logo-color {
+.header-logo-color {
     color: #2e2f42;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
@@ -252,7 +252,7 @@ a {
     text-transform: uppercase;
 }
 
-.logo-color {
+.footer-logo-color {
     color: #f4f4fd;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
