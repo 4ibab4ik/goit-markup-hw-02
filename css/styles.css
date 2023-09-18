@@ -59,6 +59,9 @@ a {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-decoration: underline;
+    text-decoration-color: #404bbf;
+    text-decoration-thickness: 2px;
 }
 
 .header-address {
