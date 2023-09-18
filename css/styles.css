@@ -129,7 +129,7 @@ a {
 
 .advantages {}
 
-.hidden-section-title {
+/* .hidden-section-title {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -140,7 +140,7 @@ a {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-}
+} */
 
 .advantages-title {}
 
